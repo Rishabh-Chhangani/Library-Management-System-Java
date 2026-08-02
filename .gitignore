@@ -1,0 +1,12 @@
+# Compiled outputs
+*.class
+/LMS(Java)/out/
+/LMS(Java)/Project/build/
+
+# IDE specific folders
+.idea/
+/LMS(Java)/Project/nbproject/private/
+
+# Database logs and lock files
+derby.log
+*.lck
